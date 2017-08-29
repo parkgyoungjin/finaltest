@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>finaltest</name>
+=======
+	<name>git</name>
+>>>>>>> branch 'master' of https://github.com/parkgyoungjin/finaltest.git
 	<comment></comment>
 	<projects>
 	</projects>
